@@ -1,4 +1,3 @@
-# Here are your Instructions
 # Local development setup
 # Backend Setup
 cd backend
